@@ -20,8 +20,8 @@ once that's done, move on to the next step.
 Next, create a file named ```style.css ```
 And get your preferred font from [Google fonts](fonts.google.com).
 Example: *Roboto Font*
-```html
 Add this into ```index.html```
+```html
 <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
 ```
